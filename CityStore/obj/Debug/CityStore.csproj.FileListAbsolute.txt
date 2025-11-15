@@ -1,0 +1,7 @@
+C:\Users\glodi mukomo\Downloads\Store Management\CityStore\CityStore\obj\Debug\CityStore.csproj.AssemblyReference.cache
+C:\Users\glodi mukomo\Downloads\Store Management\CityStore\CityStore\obj\Debug\CityStore.csproj.CoreCompileInputs.cache
+C:\Users\glodi mukomo\Downloads\Store Management\CityStore\CityStore\bin\Debug\CityStore.exe.config
+C:\Users\glodi mukomo\Downloads\Store Management\CityStore\CityStore\bin\Debug\CityStore.exe
+C:\Users\glodi mukomo\Downloads\Store Management\CityStore\CityStore\bin\Debug\CityStore.pdb
+C:\Users\glodi mukomo\Downloads\Store Management\CityStore\CityStore\obj\Debug\CityStore.exe
+C:\Users\glodi mukomo\Downloads\Store Management\CityStore\CityStore\obj\Debug\CityStore.pdb
